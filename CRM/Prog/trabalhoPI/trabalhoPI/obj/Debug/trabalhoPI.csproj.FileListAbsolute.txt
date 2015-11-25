@@ -1,0 +1,804 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\csc.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\vbc.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll.config
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\trabalhoPI.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\EntityFramework.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Owin.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\System.Web.Providers.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\WebGrease.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\EntityFramework.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\System.Web.Providers.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _V3\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\mscorlib.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Owin.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\WebGrease.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\pt-PT\mscorlib.resources.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\normidna.nlp
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\normnfc.nlp
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\normnfd.nlp
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\normnfkc.nlp
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\bin\normnfkd.nlp
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Win7\Desktop\4º ano\Programação para a Internet\trabalhoPI _final_v2\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Owin.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\WebGrease.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Ricardo\Google Drive\Programação para a Internet\Ficheiros Visual\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v3_Bd\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Desktop\Programação Internet 2015-2016\trabalhoPI _final_v4_Bd\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Owin.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\WebGrease.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Rui\Google Drive\Programação para a Internet\trabalhoPI _final_v5_Bd\trabalhoPI\obj\Debug\trabalhoPI.pdb
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\csc.exe
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\desktop.ini
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\vbc.exe
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll.config
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\trabalhoPI.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\trabalhoPI.pdb
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\EntityFramework.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Owin.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\System.Web.Providers.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\WebGrease.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\System.Web.Optimization.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Newtonsoft.Json.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\EntityFramework.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\System.Web.Providers.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.dll
+C:\Users\Ricardo\Documents\grupo\trabalhoPI\trabalhoPI\obj\Debug\trabalhoPI.pdb

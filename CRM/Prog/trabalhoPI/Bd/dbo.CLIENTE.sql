@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[CLIENTE] (
+    [ID_CLIENTE]    INT           IDENTITY (1, 1) NOT NULL,
+    [NOME]          NVARCHAR (50) NOT NULL,
+    [CONTACTO]      CHAR (9)      NOT NULL,
+    [MORADA]        NVARCHAR (60) NOT NULL,
+    [LOCALIDADE]    NVARCHAR (30) NOT NULL,
+    [CODIGO_POSTAL] CHAR (8)      NOT NULL,
+    [PAIS]          NVARCHAR (20) NOT NULL,
+    [NIF]           CHAR (9)      NOT NULL,
+    [EMAIL]         NVARCHAR (60) NULL,
+    CONSTRAINT [PK_CLIENTE] PRIMARY KEY CLUSTERED ([ID_CLIENTE] ASC) 
+);
+

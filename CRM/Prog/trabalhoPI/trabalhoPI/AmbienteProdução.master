@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AmbienteProdução.master.cs" Inherits="trabalhoPI.AmbienteProdução" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderImagem" runat="server">
+    <div Class="margemLogo">
+        <img src="Content/images/NovoLogo.png" />
+    </div>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderMenuProducao" runat="server">
+    <h2>Bem Vindo:</h2>
+                <table>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonProdutos" runat="server" Text="Produtos" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonPromocoes" runat="server" Text="Promoções" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonSugestoes" runat="server" Text="Sugestões" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="Buttonreclamacoes" runat="server" Text="Reclamações" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonEncomendas" runat="server" Text="Encomendas" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonClientes" runat="server" Text="Clientes" CssClass="tamanhoBotoes" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonFuncionarios" runat="server" Text="Funcionarios" CssClass="tamanhoBotoes" OnClick="ButtonFuncionarios_Click" />
+                        </td>
+                    </tr>
+                    
+                </table>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentEdicao" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderEdicaoProducao" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

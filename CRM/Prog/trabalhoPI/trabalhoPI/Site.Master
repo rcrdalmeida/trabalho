@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="trabalhoPI.Site" %>
+    <link href="Content/style.css" rel="stylesheet" type="text/css" />
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Industrias Alimentares Gelgurte, LDA</title>
+  <meta name="description" content="free website template" />
+  <meta name="keywords" content="enter your keywords here" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="Content/js/jquery.min.js"></script>
+  <script type="text/javascript" src="Content/js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="Content/js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script> 
+</head>
+
+<body>
+    <form runat="server">
+  <div id="main">
+
+	<div id="menubar">
+	  <div id="welcome">
+	  </div><!--close welcome-->
+      <div id="menu_items">
+	    <ul id="menu">
+          <li class="current"><a href="Default.aspx">Home</a></li>
+          <li><a href="About.aspx">About</a></li>
+          <li><a href="ContactUs.aspx">Contact Us</a></li>
+        </ul>
+      </div><!--close menu-->
+    </div><!--close menubar-->	
+    
+	<div id="site_content">		
+      <asp:ContentPlaceHolder ID="ContentPlaceHolderImagem" runat="server">
+	      <div id="banner_image">
+              <div id="slider-wrapper">
+                  <div id="slider" class="nivoSlider">
+                      <img src="Content/images/fachada.png" />
+                      <img src="Content/images/ingredientes.png" />
+                  </div>
+                  <!--close slider-->
+		      </div>
+              <!--close slider_wrapper-->
+	      </div>
+          <!--close banner_image-->
+      </asp:ContentPlaceHolder>	
+
+	  <div class="sidebar_container">       
+		<div class="sidebar">
+          <div class="sidebar_item">
+              <asp:ContentPlaceHolder ID="ContentPlaceHolderMenuProducao" runat="server">
+            <h2>Login:</h2>
+                <table>
+                    <tr>
+                        <td>
+                            Nome de Utilizador:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:TextBox ID="TextBoxUtilizador" runat="server"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Password:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:TextBox ID="TextBoxPassword" runat="server"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="ButtonEntrar" runat="server" Text="Entrar" OnClick="ButtonEntrar_Click" />
+                        </td>
+                    </tr>
+                </table>
+            
+            </asp:ContentPlaceHolder>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->     		
+		  <!--close sidebar-->
+		  <!--close sidebar-->  		
+      </div><!--close sidebar_container-->		  
+	 
+	  <div id="content">
+          <asp:ContentPlaceHolder ID="ContentEdicao" runat="server">
+            <div class="content_item" >
+		  		  
+		    </div><!--close content_item-->
+          </asp:ContentPlaceHolder>
+      </div><!--close content-->   
+	
+	    <!--close content_blue--> 	
+	</div><!--close site_content--> 
+  
+  </div><!--close main-->
+  
+  <div id="footer">
+	  Copyright © 2015 By Rui Agostinho, Ricardo Almeida e Inês Costa
+  </div><!--close footer-->  
+  </form>
+</body>
